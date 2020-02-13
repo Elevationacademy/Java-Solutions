@@ -1,4 +1,4 @@
-package ac.elevation.spotchecks;
+package ac.elevation.spotchecks.loops;
 
 import java.util.ArrayList;
 import java.util.List;
