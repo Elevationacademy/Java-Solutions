@@ -6,7 +6,7 @@ package ac.elevation.spotchecks.oop2.spotcheck2;
  */
 public abstract class Shape {
 
-    protected abstract double getArea(double length);
+    public abstract double getArea(double length);
 
-    protected abstract double getPerimeter(double length);
+    public abstract double getPerimeter(double length);
 }
