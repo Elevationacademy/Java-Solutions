@@ -9,6 +9,7 @@ import java.io.*;
 public class SpotCheck1 {
 
     private static final String END_LINE = "\n";
+
     public static void main(String[] args) {
         try (InputStream inputStream = new FileInputStream("c:\\data\\Ingredients.txt")) {
             Reader inputStreamReader = new InputStreamReader(inputStream);
