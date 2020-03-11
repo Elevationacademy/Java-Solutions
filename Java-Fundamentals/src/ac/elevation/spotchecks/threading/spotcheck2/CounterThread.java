@@ -1,4 +1,4 @@
-package ac.elevation.spotchecks.threading.spotcheck3;
+package ac.elevation.spotchecks.threading.spotcheck2;
 
 /**
  * @author Yogev Lidor
