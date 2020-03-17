@@ -1,4 +1,4 @@
-package ac.elevation.spotchecks.oop2.spotcheck2;
+package ac.elevation.spotchecks.oop3.spotcheck1;
 
 /**
  * @author Yogev Lidor
